@@ -42,11 +42,6 @@ Mentor App is a Flutter application that utilizes speech-to-text and text-to-spe
 4. View the displayed information and feedback.
 5. Optionally, click the "Speak Feedback" button to hear the feedback for each subject.
 
-## Screenshots
-
-![HomePage](https://github.com/Deepzz20/Mentor-Application/assets/109625280/07e9958c-616b-4de7-aa7e-70d10a013719)
-![After giving Input](https://github.com/Deepzz20/Mentor-Application/assets/109625280/7a0344fc-4e43-4ce7-8e0a-4ef658b796f5)
-
 ## License
 
 This project is licensed under the MIT License.
